@@ -1,0 +1,1 @@
+INSERT INTO USER (ID,USER_ID,PASSWORD,NAME,EMAIL) VALUES ('1','njung', '111','정연','123@naver.com');
